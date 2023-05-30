@@ -2,6 +2,8 @@
 
 Cloudflare Workers which uses the Cloudflare API to fetch data from multiple Cloudflare RADAR endpoints and returns the results as JSON.
 
+Alternative GeoJSON Output: https://github.com/DavidJKTofan/cloudflare-radar-api-geojson
+
 ### Get Started
 
 - Replace the `YOUR_ACCOUNT_ID` with your Cloudflare Account ID in the `wrangler.toml` file.
