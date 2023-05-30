@@ -1,0 +1,5 @@
+name = "cloudflare_radar_api"
+main = "src/worker.js"
+compatibility_date = "2023-05-30"
+
+account_id = "YOUR_ACCOUNT_ID"
